@@ -1,0 +1,26 @@
+{
+  "name": "reescourt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckb1789/reescourt.git"
+  },
+  "author": "Charlie Beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckb1789/reescourt/issues"
+  },
+  "homepage": "https://github.com/chuckb1789/reescourt#readme"
+}
